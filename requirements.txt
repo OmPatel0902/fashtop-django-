@@ -6,7 +6,6 @@ config==0.5.1
 charset-normalizer==3.3.2
 decorator==5.1.1
 distlib==0.3.8
-Django==5.0.1
 django-createsuperuser==2020.12.3
 djangorestframework==3.13.1
 djangorestframework-simplejwt==5.2.0
