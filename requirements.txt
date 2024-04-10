@@ -1,4 +1,4 @@
-﻿asgiref==3.7.2
+﻿asgiref==3.8.1
 audioread==3.0.1
 certifi==2024.2.2
 cffi==1.16.0
@@ -49,7 +49,7 @@ scipy==1.12.0
 six==1.16.0
 soxr==0.3.7
 SQLAlchemy==2.0.25
-sqlparse
+sqlparse==0.4.4
 sympy==1.12
 threadpoolctl==3.3.0
 # torch==2.2.0
